@@ -5,10 +5,10 @@ public class Passenger {
 
 
    // empty constructur
-   public Passenger() {
+   //public Passenger() {
 
 
-   }
+  // }
 
 
    // Constructur with arguments/parametrar
